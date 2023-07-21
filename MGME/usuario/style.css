@@ -1,0 +1,44 @@
+@media (max-width: 991px)
+{
+    .geral{
+        display: flex !important;
+        align-items: center !important;
+        flex-direction: column !important;
+    }
+
+    .card
+    {
+        width: 75% !important;
+        margin-bottom: 6px !important;
+    }
+
+    .form-control
+    {
+        margin-bottom: 4px !important;
+    }
+}
+
+@media (min-width:992px)
+{
+    #card2
+    {
+        margin-left: 4px !important;
+    }
+
+    
+
+    .form-control{
+        padding: 8px;
+        margin-bottom: 5.5px;
+    }
+
+    #botaoU{
+        margin-top: 1rem;
+        padding: 10px;
+    }
+}
+
+.pesquisar{
+    padding: 10px !important;
+    margin-left: 3px !important;
+}

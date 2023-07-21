@@ -1,0 +1,19 @@
+@media(max-width:991px){
+    .contador{
+        width: 100%;
+    }
+}
+
+@media(min-width:992px){
+    .contador{
+        width: 30%;
+    }
+}
+
+.info-home-icone{
+    width: 57px;
+    height: 57px;
+    margin-left: auto !important;
+
+}
+
